@@ -2,16 +2,16 @@
   "name": "simple-web-animation",
   "version": "1.0.0",
   "description": "",
-  "main": "main.html",
+  "main": "index.html",
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daffanaufal/Simple-web-animation.git"
+    "url": "https://github.com/daffanaufal/js-animation"
   },
   "author": "Daffa Naufal Santoso",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daffanaufal/Simple-web-animation/issues"
+    "url": "https://github.com/daffanaufal/js-animationissues"
   },
-  "homepage": "https://github.com/daffanaufal/Simple-web-animation#readme"
+  "homepage": "https://github.com/daffanaufal/js-animation#readme"
 }
